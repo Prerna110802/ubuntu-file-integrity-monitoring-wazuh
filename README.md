@@ -48,13 +48,13 @@ Alert Investigation
 
 The Wazuh dashboard displays the security events generated from the monitored Ubuntu endpoint.
 
-![Wazuh Alert Logs](screenshots/wazuh-alerts.png)
+![Wazuh Alert Logs](screenshots/wazuh-alerts-details.png)
 
 ### Alert Details
 
 The detailed event view provides additional information about the detected file activity.
 
-![Wazuh Alert Details](screenshots/wazuh-alert-details.png)
+![Wazuh Alert Details](screenshots/wazuh-alert.png)
 
 ## Key Learning
 
